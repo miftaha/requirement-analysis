@@ -88,3 +88,27 @@ Use case diagrams show how different users (actors) interact with the system to 
 The following use case diagram illustrates the interactions of **Hotel Managers** and **Customers** with the booking system:
 
 ![Use Case Diagram](./alx-booking-uc.png)
+
+# Acceptance Criteria
+
+## Importance of Acceptance Criteria in Requirement Analysis
+
+Acceptance criteria are conditions that a feature must meet to be accepted by the stakeholders.
+
+### Why Are Acceptance Criteria Important?
+
+1. **Clear Definition of Success**: Acceptance criteria ensures that everyone involved in the project understands what constitutes successful implementation.
+2. **Improved Communication**: Helps bridge the gap between stakeholders, developers, and testers by providing a shared understanding.
+3. **Testable Outcomes**: Forms the basis for writing test cases, ensuring all requirements are verifiable.
+4. **Scope Management**: Prevents scope creep by clearly defining what is included and excluded in a feature.
+
+## Example: Acceptance Criteria for the Checkout Feature
+
+The **Checkout Feature** in the booking management system enables customers to finalize their bookings and make payments securely and efficiently. Below is an example of Acceptance Criteria for this feature:
+
+### Acceptance Criteria:
+
+- Booking Summary Display
+- Payment Options
+- Secure Payment Processing
+- Confirmation Notification
