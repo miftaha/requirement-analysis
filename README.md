@@ -63,3 +63,14 @@ Non-functional Requirements define the quality attributes or constraints of the 
 5. **Usability**
    - The user interfaces for hotel managers and customers should be intuitive and responsive.
    - The notification system must ensure that users are promptly informed of key updates.
+## Use Case Diagrams
+### What Are Use Case Diagrams?
+Use case diagrams show how different users (actors) interact with the system to achieve specific goals (use cases).
+### Benefits of Use Case Diagrams:
+- Provide a clear visual representation of system functionalities.
+- Help in identifying and organizing system requirements.
+- Facilitate communication among stakeholders and the development team.
+### Use Case Diagram for the Booking System
+
+The following use case diagram illustrates the interactions of **Hotel Managers** and **Customers** with the booking system:
+![Use Case Diagram](https://drive.google.com/file/d/10_jASJdXTpBegvQUW9iFUDlSfjBKwZKy/view?usp=sharing)
